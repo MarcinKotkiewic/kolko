@@ -23,9 +23,14 @@ class Papuga(Zwierze):
 class Hybryda(Lew,Papuga):
     pass
 
-
 hyb=Hybryda()
-hyb.
+hyb.iloscKlow=4
+hyb.nazwa = 'Hyb'
+hyb.waga =45
+hyb.iloscPior =300
+hyb.wiek = 34
+
+hyb.podaj_dane()
 
 
 
