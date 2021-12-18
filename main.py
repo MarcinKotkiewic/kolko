@@ -1,3 +1,3 @@
 # tu bedzie gra kólko i krzyżyk
 
-PlanszaDoGry = {}
+PlanszaDoGry = {j}
