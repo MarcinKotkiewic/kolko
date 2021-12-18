@@ -18,6 +18,9 @@ def drukujPlansze(pole):
     print(f"{pole['1']}|{pole['2']}|{pole['3']}")
 
 drukujPlansze(PlanszaDoGry)
+
+
+
 # %%
 PlanszaDoGry = {'7':' ','8':' ','9':' ',
                 '4':' ','5':' ','6':' ',
@@ -120,4 +123,6 @@ if __name__=='__main__':
 
 
 
-5# %%
+
+
+# %%
