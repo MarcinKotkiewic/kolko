@@ -10,7 +10,6 @@ klawiszeGry=[]
 for key in PlanszaDoGry:
     klawiszeGry.append(key)
 
-
 def drukujPlansze(pole):
     print(f"{pole['7']}|{pole['8']}|{pole['9']}")
     print('-+-+-')
