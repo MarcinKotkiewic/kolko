@@ -1,23 +1,3 @@
-# tu bedzie gra kólko i krzyżyk
-#%%
-
-PlanszaDoGry = {'7':' ','8':' ','9':' ',
-                '4':' ','5':' ','6':' ',
-                '1':' ','2':' ','3':' '}
-
-klawiszeGry=[]
-
-for key in PlanszaDoGry:
-    klawiszeGry.append(key)
-    print(klawiszeGry)
-
-def drukujPlansze():
-    print(' ' + '|' + ' ' + '|' + ' ')
-    print('-+-+-')
-    print(' ' + '|' + ' ' + '|' + ' ')
-    print('-+-+-')
-    print(' ' + '|' + ' ' + '|' + ' ')
-drukujPlansze()
 
 # %%
 
