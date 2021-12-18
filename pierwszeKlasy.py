@@ -30,11 +30,7 @@ wtc.podstawa_b=200
 wtc.wysokosc_h=400
 print(wtc.Objetosc())
 
-Garfild=Kot()
-Garfild.imie ='Garfild'
-Garfild.wiek = 20
-Garfild.waga=9
-Garfild.jedzenie()
+
 #%%
 
 class Prostopadloscian:
