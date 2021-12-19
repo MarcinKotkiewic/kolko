@@ -9,7 +9,7 @@ class Zwierze:
         print(f'Jestem zwierzciem {self.nazwa},mam {self.wiek} lat i ważę {self.waga} kg')
 class Slon(Zwierze):
     pass
-
+ 
 class Lew(Zwierze):
     def __init__(self):
         self.iloscKlow=4
